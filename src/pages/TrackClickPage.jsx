@@ -7,7 +7,7 @@ import { useEffect, useState } from 'react'
 import { useParams } from 'react-router-dom'
 import { supabase } from '../lib/supabase'
 
-const REDIRECT_URL = 'https://yourwebsite.com'  // Change to your actual destination
+const REDIRECT_URL = '/'  // Change to your actual destination
 
 export default function TrackClickPage() {
   const { leadId } = useParams()
