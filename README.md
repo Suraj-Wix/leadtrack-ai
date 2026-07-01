@@ -1,4 +1,4 @@
-### ⚡ LeadTrack AI
+#### ⚡ LeadTrack AI
 
 Automated Lead Management & Email Tracking System
 
